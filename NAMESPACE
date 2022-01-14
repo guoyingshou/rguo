@@ -3,3 +3,4 @@
 export(hi)
 export(w)
 export(xx)
+export(yy)
